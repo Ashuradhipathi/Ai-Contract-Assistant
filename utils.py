@@ -14,7 +14,7 @@ from llama_index.core.node_parser.text import TokenTextSplitter
 # Set Google API key
 GOOGLE_API_KEY = os.getenv("api")
 
-llm = Gemini(model="models/gemini-1.5-flash-latest", temperature=0, embedding=GeminiEmbedding,api_key=GOOGLE_API_KEY)
+llm = Gemini(model="models/gemini-1.5-flash-8b", temperature=0, embedding=GeminiEmbedding,api_key=GOOGLE_API_KEY)
 
     
 def extract_contract(contract_pdf):
