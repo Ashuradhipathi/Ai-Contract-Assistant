@@ -1,9 +1,9 @@
 # Dependencies
-[Llama-Index](https://docs.llamaindex.ai/en/stable/DOCS_README/)
-[Gemini](https://docs.llamaindex.ai/en/stable/examples/llm/gemini/)
-[List of Models](https://ai.google.dev/gemini-api/docs/models/gemini)
-[Streamlit](https://docs.streamlit.io)
-[Streamlit UI](https://docs.streamlit.io/develop/api-reference)
+- [Llama-Index](https://docs.llamaindex.ai/en/stable/DOCS_README/)
+- [Gemini](https://docs.llamaindex.ai/en/stable/examples/llm/gemini/)
+- [List of Models](https://ai.google.dev/gemini-api/docs/models/gemini)
+- [Streamlit](https://docs.streamlit.io)
+- [Streamlit UI](https://docs.streamlit.io/develop/api-reference)
 
 # Utility functions
 
