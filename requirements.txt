@@ -1,0 +1,9 @@
+llama-index
+llama-index-readers-file
+streamlit
+streamlit_ace
+IPython
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+pypdf
+transformers
